@@ -1,0 +1,7 @@
+.textarea,
+.alert {
+  max-width: 75%;
+}
+#previewText {
+  display: none;
+}
